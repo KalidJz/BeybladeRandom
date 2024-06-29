@@ -63,7 +63,6 @@ function generarFrames(discoGenerado) {
         "Dagger",
         "Expand",
         "Lift",
-        "Proof",
         "Reach",
         "Turn",
         "Wall"
