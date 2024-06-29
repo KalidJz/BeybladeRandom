@@ -7,7 +7,7 @@ function discoGenerado() {
         "11",
         "12",
         "13",
-        "Aero'",
+        "Outer",
         "Zenith"
     ];
 
@@ -53,7 +53,7 @@ function generarLayer() {
 
 function generarFrames(discoGenerado) {
 
-    if (discoGenerado === "Zenith" || discoGenerado === "Aero'") {
+    if (discoGenerado === "Zenith" || discoGenerado === "Outer") {
         return " ";
     }
 
