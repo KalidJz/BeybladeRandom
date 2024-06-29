@@ -1,6 +1,7 @@
 function discoGenerado() {
     let disco = [
         "00",
+        "0",
         "1'",
         "8'",
         "10",
